@@ -1,0 +1,10 @@
+bootstrap-admin==0.3.7.1
+Django==1.10.6
+django-haystack==2.6.1
+jieba==0.38
+Markdown==2.6.8
+pip==9.0.1
+Pygments==2.2.0
+pytz==2017.2
+setuptools==20.10.1
+Whoosh==2.7.4

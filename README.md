@@ -1,1 +1,1 @@
-# 8-24Django-Block
+# 8-24Django-Blog
